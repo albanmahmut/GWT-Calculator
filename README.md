@@ -3,7 +3,7 @@ Slutprojekt
 
 First handshake with Mr. Git. :octocat:
 
-Follow link to the calculator
+Click me,
 
-[a link](https://albanmahmut.github.io/GWT-Calculator/war/Calculator.html)
+[GWT-Calculator](https://albanmahmut.github.io/GWT-Calculator/war/Calculator.html)
 
